@@ -3,6 +3,11 @@
 My X11 desktop: a [chadwm](https://github.com/siduck/chadwm) build of dwm, with
 patched `st` and `dmenu`, a dash status bar and rofi.
 
+![Desktop](screenshot.png)
+
+Running on a 2012 ThinkPad Edge E330 — 1366x768, i5-3210M, 3.4 GB RAM. The whole
+session idles around 750 MB.
+
 Archived here so the configuration survives the machine it grew on. Everything is
 compiled from source — the `config.h` files *are* the configuration.
 
