@@ -1,0 +1,9 @@
+# Compiled output — build these yourself with `make`
+dwm
+st
+dmenu
+stest
+*.o
+
+# Local config backups
+config.h.bak-*
