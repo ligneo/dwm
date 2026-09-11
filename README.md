@@ -1,6 +1,6 @@
 # dwm setup
 
-My X11 desktop: a [chadwm](https://github.com/siduck/chadwm) build of dwm, with
+Mine old and first arch X11 desktop: a [chadwm](https://github.com/siduck/chadwm) build of dwm, with
 patched `st` and `dmenu`, a dash status bar and rofi.
 
 ![Desktop](screenshot.png)
